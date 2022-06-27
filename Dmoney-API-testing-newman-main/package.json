@@ -1,0 +1,24 @@
+{
+  "name": "newman-task",
+  "version": "1.0.0",
+  "description": "![Capture](https://user-images.githubusercontent.com/48611059/175151978-dc56a60b-d9ce-4bd7-96c7-a231c4c87bf4.PNG)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.3.2",
+    "newman-reporter-htmlextra": "^1.22.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashiquer/Dmoney-API-testing-newman.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashiquer/Dmoney-API-testing-newman/issues"
+  },
+  "homepage": "https://github.com/ashiquer/Dmoney-API-testing-newman#readme"
+}
