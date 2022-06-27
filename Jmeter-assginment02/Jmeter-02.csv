@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1656327754248,102,Login,200,OK,JMeter-assignment-02 1-1,text,true,,533,308,1,1,http://dmoney.professionaltrainingbd.com/user/login,96,0,68
+1656327754403,13,Search user,200,OK,JMeter-assignment-02 1-1,text,true,,558,417,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=50,13,0,0
+1656327754422,1892,Get user list,200,OK,JMeter-assignment-02 1-1,text,true,,586413,409,1,1,http://dmoney.professionaltrainingbd.com/user/list,1659,0,0
+1656327756368,21,Create user,201,Created,JMeter-assignment-02 1-1,text,true,,586,593,1,1,http://dmoney.professionaltrainingbd.com/user/create,21,0,0
+1656327756391,16,Search user dynamically,200,OK,JMeter-assignment-02 1-1,text,true,,537,419,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=3537,16,0,0
+1656327756407,12,User update by id,200,OK,JMeter-assignment-02 1-1,text,true,,382,476,1,1,http://dmoney.professionaltrainingbd.com/user/update/3537,12,0,0
+1656327756420,12,Delete user,200,OK,JMeter-assignment-02 1-1,text,true,,343,438,1,1,http://dmoney.professionaltrainingbd.com/user/delete/3537,12,0,0
